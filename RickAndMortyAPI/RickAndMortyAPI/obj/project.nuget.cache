@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nD9fTHNz+EucKgYzXL642X+l4qzKhW4BRGdYJTwbGrnRA1A+/NLWegJkmWaRl6+LLJLFx2k4jne6o+5zu2o+kQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo Ideapad\\source\\repos\\RickAndMortyAPI\\RickAndMortyAPI\\RickAndMortyAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo Ideapad\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
